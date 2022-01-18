@@ -5,7 +5,9 @@ For our first ML project, our group worked on a Zindi challenge for [Credit Frau
 ## Challenges
 
 - dealing with **highly imbalanced data** (only 0.2% of all cases were fraudulent)
+ - we used SMOTE algorithm for re-scaling
 - create additional insights through feature engineering
+ - especially, handling date-time object
 - work out **behavioral patterns** from the given data
 
 ## Models tested and employed
